@@ -364,12 +364,12 @@
 			{
 				"command": "agda-mode.input-symbol[Activate]",
 				"key": "\\",
-				"when": "editorLangId == agda"
+				"when": "editorLangId == agda || editorLangId == coq"
 			},
 			{
 				"command": "agda-mode.input-symbol[Activate]",
 				"key": "[Backslash]",
-				"when": "editorLangId == agda"
+				"when": "editorLangId == agda || editorLangId == coq"
 			},
 			{
 				"command": "agda-mode.quit",
