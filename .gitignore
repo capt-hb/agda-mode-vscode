@@ -4,7 +4,6 @@ test/globalStoragePath
 
 
 .DS_Store
-*.vsix
 
 # Editor
 # NOTE: Exceptions like launch.json should be placed ahead
